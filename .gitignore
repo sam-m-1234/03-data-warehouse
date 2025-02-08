@@ -1,0 +1,8 @@
+gcs.json
+.venv
+big_query.sql
+homework.md
+*.parquet
+setup_env.sh
+init_gcp.sh
+*.png
