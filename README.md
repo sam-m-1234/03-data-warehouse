@@ -199,7 +199,7 @@ WHERE DATE(tpep_dropoff_datetime) BETWEEN '2024-03-01' AND '2024-03-15';
 
 ### Answer
 
-310.24 MB for non-partitioned table and 26.84 MB for the partitioned table (Option 4)
+310.24 MB for non-partitioned table and 26.84 MB for the partitioned table (Option 2)
 
 ## Question 7:
 
